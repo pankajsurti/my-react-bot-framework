@@ -5,7 +5,7 @@ on:
     inputs:
       sample_name:
         description: 'Name of the solution'
-        required: true
+        required: false
         default: react-adaptivecards
 # test on 07/31
 # Variables that are available for all the jobs in the workflow - 07/25  
